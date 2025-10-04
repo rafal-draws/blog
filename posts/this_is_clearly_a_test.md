@@ -6,4 +6,4 @@ THIS IS CLEARLY A TEST!
 hey my man
 
 
-![cat](./resources/cat.gif)
+![cat](/resources/cat.gif)

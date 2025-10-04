@@ -1,3 +1,8 @@
+This is a title
+
+I always wanted to create a blog.
+
+
 # The idea
 
 The idea is to create a minimal blog framework, that parses the markdown files and uses github as a database.
