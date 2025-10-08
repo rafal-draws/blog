@@ -1,4 +1,19 @@
-This is a title
+---
+title: First blog post
+created: 10/04/2025
+edited: 2025-10-8
+tags:
+ - Rust
+ - Social
+ - content
+
+series:
+ - How to create a blog
+   episode: 1
+
+layout: post
+published: true
+---
 
 I always wanted to create a blog.
 
@@ -14,6 +29,13 @@ This is an example. This wasn't here, but you can definitely see it!
 The posts are going to be versioned, with commit hash.
 
 ## How about the code?
+this is not separated
+
+
+this is separated
+---
+this is separated
+
 
 
 ```rust
