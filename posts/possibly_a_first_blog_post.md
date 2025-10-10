@@ -7,9 +7,8 @@ tags:
  - Social
  - content
 
-series:
- - How to create a blog
-   episode: 1
+series: How to create a blog
+  
 
 layout: post
 published: true
