@@ -1,6 +1,6 @@
 ---
 title: First blog post
-created: 10/04/2025
+created: 2025-10-7
 edited: 2025-10-8
 tags:
  - Rust
