@@ -1,7 +1,7 @@
 ---
 title: First blog post
-created: 2025-10-7
-edited: 2025-10-8
+created: 2025-10-07
+edited: 2025-10-08
 tags:
  - Rust
  - Social
