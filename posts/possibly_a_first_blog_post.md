@@ -1,17 +1,13 @@
----
 title: First blog post
+author:
+  - fullname: Rafał Draws
+    email: rafal.w.draws@gmail.com
+    linkedin: https://www.linkedin.com/in/rafa%C5%82-draws-a49b0b1a9/
 created: 2025-10-07
-edited: 2025-10-08
 tags:
- - Rust
- - Social
- - content
-
-series: How to create a blog
-  
-
-layout: post
-published: true
+  - Rust
+  - Social
+  - content
 ---
 
 I always wanted to create a blog.
@@ -45,30 +41,3 @@ let nobody = tell(you)
             .what_you_can()
             .or_cant_do()
             .unwrap();
-
-```
-
-
-## Attachment support
-
-The attachments must be placed under ```/resources``` folder in the repository containing posts in .md format.
-
-
-
-![cat](/resources/cat.gif)
-
-equals to 
-```
-![cat](/resources/cat.gif)
-```
-
-Of course, you can modify it as per your liking.
-
-
-> this
-
->> is
-
-*a*
-
-**test**
