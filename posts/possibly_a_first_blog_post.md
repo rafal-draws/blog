@@ -1,3 +1,4 @@
+---
 title: First blog post
 author:
   - fullname: Rafał Draws
